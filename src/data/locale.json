@@ -51,5 +51,217 @@
         ]
       }
     }
+  },
+
+  "en": {
+    "welcome": "Welcome to my website!",
+    "description": [
+      "Hello, my name is MrBedrockpy,",
+      "I am a Java developer with 4 years of experience",
+      "in developing plugins and mods for the game",
+      "Minecraft"
+    ],
+    "menu": {
+      "biography": "Biography",
+      "projects": "Projects",
+      "portfolio": "Portfolio",
+      "services": "Services"
+    },
+    "bio": {
+      "title": "My biography",
+      "overview": [
+        "My biography will appear on this page soon. At the moment, ",
+        "it is still being written and will be presented to the public after an undefined amount of time. ",
+        "Soon there will be both a biography of my childhood and articles about different periods of my life, ",
+        "dedicated to specific topics, projects, or other parts of my personality..."
+      ]
+    },
+    "projects": {
+      "title": "My projects",
+      "overview": [
+        "This page contains my projects. If you came here to evaluate the quality of my code, ",
+        "I kindly ask you to leave this page and visit my portfolio instead. ",
+        "This page presents projects that I do not want to include in my portfolio for various reasons, ",
+        "but still want to leave a trace of their existence on the internet"
+      ],
+      "descriptions": {
+        "BedLib": [
+          "This is a rework of my library for comfortable development of plugins for Paper"
+        ]
+      }
+    },
+    "portfolio": {
+      "title": "My portfolio",
+      "overview": [
+        "These are projects I am proud of and which I invite you to take a look at"
+      ],
+      "descriptions": {
+        "FrostPunk": [
+          "This is a Minecraft plugin that adds a body temperature indicator, ",
+          "which can change its value depending on certain factors, ",
+          "first causing configurable debuffs, ",
+          "and then applying a frostbite effect that starts dealing damage after some time"
+        ]
+      }
+    }
+  },
+
+  "de": {
+    "welcome": "Willkommen auf meiner Website!",
+    "description": [
+      "Hallo, mein Name ist MrBedrockpy,",
+      "ich bin ein Java-Entwickler mit 4 Jahren Erfahrung",
+      "in der Entwicklung von Plugins und Mods für das Spiel",
+      "Minecraft"
+    ],
+    "menu": {
+      "biography": "Biografie",
+      "projects": "Projekte",
+      "portfolio": "Portfolio",
+      "services": "Dienstleistungen"
+    },
+    "bio": {
+      "title": "Meine Biografie",
+      "overview": [
+        "Meine Biografie wird bald auf dieser Seite erscheinen. Derzeit ",
+        "befindet sie sich noch in der Erstellung und wird nach unbestimmter Zeit veröffentlicht. ",
+        "Bald werden hier sowohl eine Biografie meiner Kindheit als auch Artikel über verschiedene Lebensphasen erscheinen, ",
+        "die bestimmten Themen, Projekten oder anderen Teilen meiner Persönlichkeit gewidmet sind..."
+      ]
+    },
+    "projects": {
+      "title": "Meine Projekte",
+      "overview": [
+        "Diese Seite enthält meine Projekte. Wenn Sie diese Seite besucht haben, um die Qualität meines Codes zu beurteilen, ",
+        "bitte ich Sie, diese Seite zu verlassen und stattdessen mein Portfolio zu besuchen. ",
+        "Hier werden Projekte vorgestellt, die ich aus verschiedenen Gründen nicht in mein Portfolio aufnehmen möchte, ",
+        "deren Existenz ich jedoch im Internet festhalten möchte"
+      ],
+      "descriptions": {
+        "BedLib": [
+          "Dies ist eine Überarbeitung meiner Bibliothek für die komfortable Entwicklung von Plugins für Paper"
+        ]
+      }
+    },
+    "portfolio": {
+      "title": "Mein Portfolio",
+      "overview": [
+        "Dies sind Projekte, auf die ich stolz bin und die ich Ihnen gerne zeigen möchte"
+      ],
+      "descriptions": {
+        "FrostPunk": [
+          "Dies ist ein Minecraft-Plugin, das eine Körpertemperaturanzeige hinzufügt, ",
+          "die sich je nach bestimmten Faktoren ändern kann, ",
+          "zunächst konfigurierbare Debuffs verursacht ",
+          "und später einen Erfrierungseffekt anwendet, der nach einiger Zeit Schaden verursacht"
+        ]
+      }
+    }
+  },
+
+  "es": {
+    "welcome": "¡Bienvenido a mi sitio web!",
+    "description": [
+      "Hola, mi nombre es MrBedrockpy,",
+      "soy un desarrollador Java con 4 años de experiencia",
+      "en el desarrollo de plugins y mods para el juego",
+      "Minecraft"
+    ],
+    "menu": {
+      "biography": "Biografía",
+      "projects": "Proyectos",
+      "portfolio": "Portafolio",
+      "services": "Servicios"
+    },
+    "bio": {
+      "title": "Mi biografía",
+      "overview": [
+        "Mi biografía aparecerá pronto en esta página. Actualmente ",
+        "se encuentra en proceso de escritura y será presentada al público después de un tiempo indefinido. ",
+        "Pronto habrá tanto una biografía de mi infancia como artículos sobre diferentes etapas de mi vida, ",
+        "dedicados a temas, proyectos u otras partes de mi personalidad..."
+      ]
+    },
+    "projects": {
+      "title": "Mis proyectos",
+      "overview": [
+        "Esta página contiene mis proyectos. Si has venido aquí para evaluar la calidad de mi código, ",
+        "te pido que salgas de esta página y visites mi portafolio. ",
+        "Aquí se muestran proyectos que no quiero incluir en mi portafolio por diversas razones, ",
+        "pero quiero dejar constancia de su existencia en Internet"
+      ],
+      "descriptions": {
+        "BedLib": [
+          "Esta es una versión renovada de mi biblioteca para el desarrollo cómodo de plugins para Paper"
+        ]
+      }
+    },
+    "portfolio": {
+      "title": "Mi portafolio",
+      "overview": [
+        "Estos son proyectos de los que estoy orgulloso y que te invito a ver"
+      ],
+      "descriptions": {
+        "FrostPunk": [
+          "Este es un plugin de Minecraft que añade un indicador de temperatura corporal, ",
+          "que puede cambiar su valor según ciertos factores, ",
+          "primero causando debuffs configurables, ",
+          "y luego aplicando un efecto de congelación que comienza a causar daño después de un tiempo"
+        ]
+      }
+    }
+  },
+
+  "fr": {
+    "welcome": "Bienvenue sur mon site web !",
+    "description": [
+      "Bonjour, je m'appelle MrBedrockpy,",
+      "je suis développeur Java avec 4 ans d'expérience",
+      "dans le développement de plugins et de mods pour le jeu",
+      "Minecraft"
+    ],
+    "menu": {
+      "biography": "Biographie",
+      "projects": "Projets",
+      "portfolio": "Portfolio",
+      "services": "Services"
+    },
+    "bio": {
+      "title": "Ma biographie",
+      "overview": [
+        "Ma biographie apparaîtra bientôt sur cette page. Actuellement, ",
+        "elle est en cours de rédaction et sera présentée au public après un délai indéfini. ",
+        "Bientôt, il y aura à la fois une biographie de mon enfance et des articles sur différentes périodes de ma vie, ",
+        "consacrés à des thèmes, des projets ou d'autres aspects de ma personnalité..."
+      ]
+    },
+    "projects": {
+      "title": "Mes projets",
+      "overview": [
+        "Cette page contient mes projets. Si vous êtes venu ici pour évaluer la qualité de mon code, ",
+        "je vous demande de quitter cette page et de visiter mon portfolio. ",
+        "Ici sont présentés des projets que je ne souhaite pas inclure dans mon portfolio pour diverses raisons, ",
+        "mais dont je veux laisser une trace de leur existence sur Internet"
+      ],
+      "descriptions": {
+        "BedLib": [
+          "Il s'agit d'une refonte de ma bibliothèque pour le développement confortable de plugins pour Paper"
+        ]
+      }
+    },
+    "portfolio": {
+      "title": "Mon portfolio",
+      "overview": [
+        "Voici des projets dont je suis fier et que je vous invite à découvrir"
+      ],
+      "descriptions": {
+        "FrostPunk": [
+          "Il s'agit d'un plugin Minecraft qui ajoute un indicateur de température corporelle, ",
+          "qui peut changer de valeur selon certains facteurs, ",
+          "provoquant d'abord des malus configurables, ",
+          "puis appliquant un effet de gelure qui commence à infliger des dégâts après un certain temps"
+        ]
+      }
+    }
   }
 }
