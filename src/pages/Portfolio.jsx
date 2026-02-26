@@ -14,7 +14,7 @@ export default function Portfolio({t}) {
                         Ваш браузер не поддерживает видео.
                     </video>
                     <h4 className="title">{el.name}</h4>
-                    {t.portfolio.descriptions[el.name]}
+                    <p>{t.portfolio.descriptions[el.name]}</p>
                 </div>
             ))}
         </div>
