@@ -1,0 +1,17 @@
+{
+  "projects": [
+    {
+      "name": "BedLib",
+      "links": [
+        {
+          "name": "Source code",
+          "link": "https://github.com/MrBedrockpy/BedLib"
+        },
+        {
+          "name": "Documentation",
+          "link": "https://github.com/MrBedrockpy/BedLib"
+        }
+      ]
+    }
+  ]
+}
